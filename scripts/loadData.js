@@ -1,9 +1,9 @@
-// To replace the current database with a different one, run this file with Node.js
+// Used to replace db.json with the contents of a different JSON file
 
-const fs = require("fs");
+import fs from "fs";
 
 // To load a different JSON file, change the value of sourceFilePath to any of the files within the databases folder
-const sourceFilePath = "databases/full_db.json";
+const sourceFilePath = "./databases/full_db.json";
 const targetFilePath = "db.json";
 
 // Read the contents of the source JSON file
