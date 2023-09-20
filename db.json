@@ -7,22 +7,10 @@
       "email": "Haven91@yahoo.com"
     },
     {
-      "id": 1,
-      "first_name": "Ora",
-      "last_name": "Wolff",
-      "email": "Alessia_Boyer-Mosciski@gmail.com"
-    },
-    {
       "id": 2,
       "first_name": "Sierra",
       "last_name": "Nitzsche",
       "email": "Ed84@yahoo.com"
-    },
-    {
-      "id": 3,
-      "first_name": "Dulce",
-      "last_name": "Schiller",
-      "email": "Tyrel_Collier@gmail.com"
     },
     {
       "id": 4,
@@ -299,6 +287,24 @@
       "first_name": "Saul",
       "last_name": "Cassin",
       "email": "Freda20@yahoo.com"
+    },
+    {
+      "id": 51,
+      "first_name": "Aidan",
+      "last_name": "Sunbury",
+      "email": "aidansunbury@berkeley.edu"
+    },
+    {
+      "id": 52,
+      "first_name": "Aidan",
+      "last_name": "Sunbury",
+      "email": "aidansunbury@berkeley.edu"
+    },
+    {
+      "id": 53,
+      "first_name": "Aidan",
+      "last_name": "Sunbury",
+      "email": "aidansunbury@berkeley.edu"
     }
   ]
 }
