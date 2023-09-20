@@ -7,16 +7,22 @@
       "email": "Haven91@yahoo.com"
     },
     {
+      "id": 1,
+      "first_name": "Ora",
+      "last_name": "Wolff",
+      "email": "Alessia_Boyer-Mosciski@gmail.com"
+    },
+    {
       "id": 2,
       "first_name": "Sierra",
       "last_name": "Nitzsche",
       "email": "Ed84@yahoo.com"
     },
     {
-      "id": 4,
-      "first_name": "Camilla",
-      "last_name": "Bechtelar-Ullrich",
-      "email": "Tiara2@hotmail.com"
+      "id": 3,
+      "first_name": "Dulce",
+      "last_name": "Schiller",
+      "email": "Tyrel_Collier@gmail.com"
     },
     {
       "id": 5,
@@ -289,22 +295,38 @@
       "email": "Freda20@yahoo.com"
     },
     {
-      "id": 51,
-      "first_name": "Aidan",
-      "last_name": "Sunbury",
-      "email": "aidansunbury@berkeley.edu"
-    },
-    {
-      "id": 52,
-      "first_name": "Aidan",
-      "last_name": "Sunbury",
-      "email": "aidansunbury@berkeley.edu"
-    },
-    {
       "id": 53,
-      "first_name": "Aidan",
+      "first_name": "William",
       "last_name": "Sunbury",
       "email": "aidansunbury@berkeley.edu"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "rating": 4,
+      "comment": "Iusto voluptatem voluptatem voluptatem."
+    },
+    {
+      "id": 1,
+      "rating": 2,
+      "comment": "This place SUCKS"
+    }
+  ],
+  "locations": [
+    {
+      "id": 0,
+      "position": {
+        "longitude": 50,
+        "latitude": 50
+      }
+    },
+    {
+      "id": 1,
+      "position": {
+        "longitude": 40,
+        "latitude": 60
+      }
     }
   ]
 }

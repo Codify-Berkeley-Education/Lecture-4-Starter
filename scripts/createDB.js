@@ -6,11 +6,13 @@ function generateData() {
   for (var id = 0; id < 50; id++) {
     var firstName = faker.person.firstName();
     var lastName = faker.person.lastName();
+    var jobTitle = faker.person.jobTitle();
     var email = faker.internet.email();
     employees.push({
       id: id,
       first_name: firstName,
       last_name: lastName,
+      jobTitle: jobTitle,
       email: email,
     });
   }

@@ -130,9 +130,5 @@ dist
 .pnp.*
 package-lock.json
 
-completed/
-completed/deleteRequest.js
-completed/getRequest.js
-completed/postRequest.js
 
 ../.DS_Store

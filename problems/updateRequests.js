@@ -3,7 +3,7 @@ import ky from "ky";
 // Add a new employee to the database
 const newEmployee = {
   id: 53,
-  first_name: "Aidan",
+  first_name: "John",
   last_name: "Sunbury",
   email: "aidansunbury@berkeley.edu",
 };
